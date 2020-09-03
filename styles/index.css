@@ -1,0 +1,119 @@
+.expla {
+  text-align: center;
+  font-size: 60px;
+  color: #457eac;
+}
+
+.title {
+  position: flex;
+  text-align: center;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.title img {
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.title h1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: 15vh;
+  margin-right: 2.5vw;
+  text-align: right;
+  color: white;
+  line-height: 80%;
+}
+
+.mini {
+  text-align: center;
+  font-size: 25px;
+  color: #457eac;
+  font-weight: 800;
+}
+
+.body {
+  font-size: 20px;
+}
+
+.num {
+  font-size: 300px;
+  font-type: serif;
+  color: #a2c7e5;
+  font-weight: 800;
+  text-shadow: 8px 8px darkgray;
+}
+
+.motto {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.numbers {
+  width: 65vw;
+  padding: 5vw;
+  margin: 0 auto;
+  background-color: black;
+}
+
+.section-one {
+  float: left;
+  background-color: red;
+  position: relative;
+  height: 80vh;
+}
+
+.number-one {
+  float: left;
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}
+
+.description-one {
+  float: right;
+  background-color: yellow;
+}
+
+.section-two {
+  float: left;
+  height: 80vh;
+}
+
+.number-two {
+  float: right;
+}
+
+.section-three {
+  float: left;
+  height: 80vh;
+}
+
+.number-three {
+  float: left;
+}
+
+.section-four {
+  float: left;
+  height: 80vh;
+}
+
+.number-four {
+  float: right;
+}
+
+.description-four {
+  float: left;
+  text-align: left;
+}
+
+.whoweare {
+  display: flex;
+  justify-content: space-evenly;
+}
